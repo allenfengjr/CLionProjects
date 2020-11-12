@@ -1,0 +1,4 @@
+/Users/fenghao/CLionProjects/week2homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fenghao/CLionProjects/week2homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fenghao/CLionProjects/week2homework/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/fenghao/CLionProjects/week2homework/cmake-build-debug/CMakeFiles/week2homeword.dir

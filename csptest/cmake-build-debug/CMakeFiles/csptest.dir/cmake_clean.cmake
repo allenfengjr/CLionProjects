@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/csptest.dir/2.cpp.o"
+  "CMakeFiles/csptest.dir/201512-3.cpp.o"
+  "CMakeFiles/csptest.dir/201604-3.cpp.o"
+  "CMakeFiles/csptest.dir/201609-3.cpp.o"
+  "CMakeFiles/csptest.dir/201809-3.cpp.o"
+  "CMakeFiles/csptest.dir/3.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M2-1.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M2-3.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M3-1.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M3-2.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M5-1.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M5-2.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M5-3.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M5-4.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M5-5.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M5-6.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M7-1.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M7-2.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M7-3.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M7-4.cpp.o"
+  "CMakeFiles/csptest.dir/csp-M7-5.cpp.o"
+  "CMakeFiles/csptest.dir/csp=M2-2.cpp.o"
+  "CMakeFiles/csptest.dir/csptest.cpp.o"
+  "CMakeFiles/csptest.dir/main.cpp.o"
+  "CMakeFiles/csptest.dir/sdu-csp-M3-1.cpp.o"
+  "CMakeFiles/csptest.dir/sdu-csp-M3-2.cpp.o"
+  "CMakeFiles/csptest.dir/sdu-csp-M3-3.cpp.o"
+  "CMakeFiles/csptest.dir/sdu-csp-m4-2.cpp.o"
+  "CMakeFiles/csptest.dir/sdu-csp-m4-3.cpp.o"
+  "CMakeFiles/csptest.dir/sdu-csp-m4.cpp.o"
+  "CMakeFiles/csptest.dir/week14-test-1.cpp.o"
+  "CMakeFiles/csptest.dir/week6.cpp.o"
+  "csptest"
+  "csptest.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/csptest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

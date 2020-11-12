@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="csptest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/fenghao/CLionProjects/csptest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/fenghao/CLionProjects/csptest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/fenghao/CLionProjects/csptest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="csptest">
+				<Option output="/Users/fenghao/CLionProjects/csptest/cmake-build-debug/csptest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fenghao/CLionProjects/csptest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/../../../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/../../../../../../include/c++/9.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/../../../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 csptest"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="csptest/fast">
+				<Option output="/Users/fenghao/CLionProjects/csptest/cmake-build-debug/csptest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fenghao/CLionProjects/csptest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/../../../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/../../../../../../include/c++/9.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/../../../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/9.2.0_3/lib/gcc/9/gcc/x86_64-apple-darwin19/9.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 csptest/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/fenghao/CLionProjects/csptest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/2.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/201512-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/201604-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/201609-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/201809-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M2-1.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M2-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M3-1.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M3-2.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M5-1.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M5-2.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M5-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M5-4.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M5-5.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M5-6.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M7-1.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M7-2.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M7-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M7-4.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp-M7-5.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csp=M2-2.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/csptest.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/main.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/sdu-csp-M3-1.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/sdu-csp-M3-2.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/sdu-csp-M3-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/sdu-csp-m4-2.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/sdu-csp-m4-3.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/sdu-csp-m4.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/week14-test-1.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/week6.cpp">
+			<Option target="csptest"/>
+		</Unit>
+		<Unit filename="/Users/fenghao/CLionProjects/csptest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
