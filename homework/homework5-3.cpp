@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 3/21/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -41,5 +40,3 @@ int main(){
     }
     cout<<min_len<<endl;
 }
-
-*/

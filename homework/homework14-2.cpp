@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 5/25/20.
 //
-/*
 #include <iostream>
 #include <string.h>
 #include <string>
@@ -54,4 +53,3 @@ int main(){
         cout<<(n+m-max_all)<<endl;
     }
 }
-*/

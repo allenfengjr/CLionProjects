@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 4/29/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -29,4 +28,3 @@ int main(){
         cout<<year;
     }
 }
-*/

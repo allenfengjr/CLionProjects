@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 5/8/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -15,4 +14,3 @@ int main(){
         delete num;
     }
 }
-*/

@@ -16,7 +16,6 @@
  * 对于子问题，贪心策略不需要有区别的这个区间，因为该区间的范围已经覆盖，而最优解可能需要，所以贪心策略等于或优于最优解，即为最优解
  * 现在可以讨论排序问题了，本着被包含在下的原因，左端点小的在前，如一样，则右端点大的在前
  */
-/*
 #include<iostream>
 #include <algorithm>
 using namespace std;
@@ -68,4 +67,3 @@ int main(){
     if(temp.right<T){total=-1;}
     printf("%d",total);
 }
-*/

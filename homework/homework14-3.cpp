@@ -2,7 +2,6 @@
 // Created by haofeng on 5/26/20.
 //
 //线性递推
-/*
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
@@ -77,4 +76,3 @@ int main(){
         }
     }
 }
- */

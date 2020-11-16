@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 4/25/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -30,4 +29,3 @@ int main(){
     }
     cout<<MAXTOTAL;
 }
-*/

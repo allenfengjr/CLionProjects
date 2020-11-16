@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 4/1/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 #include <stdio.h>
@@ -44,4 +43,3 @@ int main(){
         cout<<total<<endl;
     }
 }
-*/

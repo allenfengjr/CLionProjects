@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 3/28/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -42,4 +41,3 @@ int main(){
         cout<<ranks[g]<<endl;
     }
 }
- */

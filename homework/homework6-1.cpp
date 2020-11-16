@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 3/28/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 #include <stdio.h>
@@ -74,4 +73,3 @@ int main(){
         for(int i=1;i<=10000;i++){thedepth[i]=0;}
     }
 }
- */

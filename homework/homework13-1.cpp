@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 5/15/20.
 //
-/*
 #include <iostream>
 using namespace std;
 int n;int k;
@@ -37,4 +36,3 @@ int main(){
         }
     }
 }
-*/

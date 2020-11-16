@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <queue>
 #include <stdio.h>
@@ -61,4 +60,3 @@ int main(){
     cout<<sum[MAX]<<endl;
     return 0;
 }
-*/

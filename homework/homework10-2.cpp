@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 4/25/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 #include<string.h>
@@ -42,4 +41,3 @@ int main(){
     solveLIS();
     cout<<LISMAX<<" "<<LCS[n][m];
 }
- */

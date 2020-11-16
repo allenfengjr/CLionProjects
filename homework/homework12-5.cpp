@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 5/14/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 #include <string>
@@ -52,4 +51,3 @@ int main(){
         out((1<<N)-1);
     }
 }
- */

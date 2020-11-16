@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 5/14/20.
 //
-/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -35,4 +34,3 @@ int main(){
         cout<<dp[1][n]<<endl;
     }
 }
- */

@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 4/21/20.
 //
-/*
 #include <stdio.h>
 #include <algorithm>
 using namespace std;
@@ -22,4 +21,3 @@ int main(){
     int kx=a[x-1]+y;
     printf("%d %d",km,kx);
 }
- */

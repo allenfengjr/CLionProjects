@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 4/29/20.
 //
-/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -32,4 +31,3 @@ int main(){
     getline(cin,c);
     cout<<CODE(c);
 }
- */

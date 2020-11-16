@@ -1,7 +1,6 @@
 //
 // Created by 冯灏 on 5/17/20.
 //
-/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -65,4 +64,3 @@ int main(){
         cout<<max(f[root][0],f[root][1])<<endl;
     }
 }
- */

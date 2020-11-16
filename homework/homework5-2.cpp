@@ -3,7 +3,6 @@
 //
 //差分题，对区间内每个点改变，铁定不行(其实这道题的范围感觉行...)
 //TMD long都不够用,long long都用上了，这题暴力肯定不行...
-/*
 #include <iostream>
 using namespace std;
 int N,Q;
@@ -24,4 +23,3 @@ int main(){
     for(int i=1;i<=N;i++)arr[i]=arr[i-1]+diff_equ[i];
     for(int i=1;i<=N;i++)cout<<arr[i]<<" ";
 }
- */

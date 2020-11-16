@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 5/19/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 #include <queue>
@@ -13,6 +12,7 @@ void solve(){
     
 }
 int main(){
+    int t = 100;//t 应该多少我也不知道了
     while (t--){
         cin>>N>>K;
         for (int i = 1; i <=N ; ++i) {
@@ -23,4 +23,3 @@ int main(){
         }
     }
 }
-*/

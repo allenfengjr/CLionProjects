@@ -2,7 +2,6 @@
 // Created by haofeng on 5/4/20.
 //
 //超大背包？==>可以但没必要
-/*
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -51,4 +50,3 @@ int main(){
         findcd();
     }
 }
- */

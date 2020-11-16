@@ -2,7 +2,6 @@
 // Created by haofeng on 3/21/20.
 //
 // ios::sync_with_stdio(false);亲身试验这句话没用,必须用scanf和printf
-/*
 #include <iostream>
 #include <deque>
 #include <stdio.h>
@@ -57,4 +56,3 @@ int main(){
         printf("%d ",min_max[j].first);
     }
 }
- */

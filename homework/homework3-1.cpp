@@ -4,7 +4,6 @@
 //
 #include <iostream>
 #include <list>
-/*
 using namespace std;
 int all_number[16];
 int T,N,K,SUM,accept;
@@ -38,4 +37,3 @@ int main(){
         accept=0;
     }
 }
- */

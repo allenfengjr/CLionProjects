@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 4/25/20.
 //
-/*
 #include <iostream>
 using namespace std;
 long long n,m;
@@ -32,4 +31,3 @@ int main(){
     }
     cout<<times;
 }
-*/

@@ -1,7 +1,6 @@
 //
 // CreAted by haofeng on 5/20/20.
 //
-/*
 #include<iostream>
 #include<cstdio>
 #include<cstring>
@@ -46,5 +45,3 @@ int main()
     }
     return 0;
 }
-
-*/

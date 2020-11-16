@@ -3,7 +3,6 @@
 //所有下标为便于理解从1开始
 //
 #include <iostream>
-/*
 using namespace std;
 int degree[5];//多少度的点有多少个
 int edges[5][2];//记录原始的各个边
@@ -54,4 +53,3 @@ int main(){
         }
     }
 }
- */

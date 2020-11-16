@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 3/28/20.
 //
-/*
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -67,4 +66,3 @@ int main(){
     init(N+1);
     cout<<kruskal(N+1)<<endl;
 }
- */

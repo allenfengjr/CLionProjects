@@ -23,7 +23,6 @@
  *  总结出适用于贪心规则的排序方式，先比较右端点，从左到右排，如果右端点一致，那么左端点大的在上面
  *  over
  */
-/*
 #include<iostream>
 #include <algorithm>
 using namespace std;
@@ -53,4 +52,3 @@ int main(){
     }
     printf("%d\n",total);
 }
- */

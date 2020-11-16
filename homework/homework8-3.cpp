@@ -1,7 +1,6 @@
 //
 // Created by haofeng on 4/13/20.
 //
-/*
 #include <string.h>
 #include <iostream>
 #include <stdio.h>
@@ -118,4 +117,3 @@ int main(){
         printf("%d\n",ans[ans.size()-1]);
     }
 }
-*/

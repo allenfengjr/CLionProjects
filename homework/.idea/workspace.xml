@@ -7,11 +7,76 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9a03937-0be5-4081-b24a-b6bc69418f7f" name="Default Changelist" comment="" />
+    <list default="true" id="d9a03937-0be5-4081-b24a-b6bc69418f7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/homework.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/homework.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/homework.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/homework.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework10-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework10-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework10-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework10-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework10-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework10-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework11-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework11-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework11-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11-4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework11-4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11-5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework11-5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework11-6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework11-6.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework12-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework12-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework12-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework12-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework12-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework12-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework12-4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework12-4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework12-5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework12-5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework13-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework13-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework13-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework13-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework13-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework13-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework13-4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework13-4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework13-5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework13-5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework14-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework14-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework14-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework14-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework14-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework14-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework14-4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework14-4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework15-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework15-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework15-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework15-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework3-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework3-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework3-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework3-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework3-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework3-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework4-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework4-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework4-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework4-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework4-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework4-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework5-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework5-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework5-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework5-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework5-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework5-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework5-4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework5-4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework6-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework6-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework6-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework6-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework6-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework6-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework6-4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework6-4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework7-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework7-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework7-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework7-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework7-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework7-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework8-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework8-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework8-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework8-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework8-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework8-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework9-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework9-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework9-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework9-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework9-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework9-3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiyan2-1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/shiyan2-1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiyan2-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/shiyan2-2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiyan2-3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/shiyan2-3.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,23 +86,39 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Ye36D5WT8BHvQkx6CsBeYyUL25" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="homework" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="homework" TARGET_NAME="homework" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="homework" RUN_TARGET_NAME="homework">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="homework" TARGET_NAME="homework" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="homework" RUN_TARGET_NAME="homework">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -133,11 +214,12 @@
       <workItem from="1592834355404" duration="81000" />
       <workItem from="1592981875364" duration="29000" />
       <workItem from="1592981925030" duration="111000" />
+      <workItem from="1605530660881" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1097" height="229" key="GridCell.Tab.0.bottom" timestamp="1591178189810">
@@ -275,62 +357,57 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/shiyan2-1.cpp</url>
-          <line>44</line>
+          <line>43</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/shiyan2-1.cpp</url>
-          <line>45</line>
+          <line>44</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/shiyan2-1.cpp</url>
-          <line>46</line>
+          <line>45</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/shiyan2-2.cpp</url>
-          <line>57</line>
+          <line>56</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/shiyan2-2.cpp</url>
-          <line>58</line>
+          <line>57</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/homework4-1.cpp</url>
-          <line>30</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/homework4-1.cpp</url>
-          <line>47</line>
+          <line>46</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/homework4-1.cpp</url>
-          <line>48</line>
+          <line>47</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/homework4-1.cpp</url>
-          <line>46</line>
+          <line>45</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/homework4-1.cpp</url>
-          <line>51</line>
+          <line>50</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/homework4-3.cpp</url>
-          <line>38</line>
+          <line>37</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/homework8-3.cpp</url>
-          <line>115</line>
+          <line>114</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
