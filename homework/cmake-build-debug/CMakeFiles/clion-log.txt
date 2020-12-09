@@ -1,4 +1,6 @@
-"/Users/fenghao/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/203.5784.34/CLion 2020.3 EAP.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 -DCMAKE_CXX_COMPILER=/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 -G "CodeBlocks - Unix Makefiles" /Users/fenghao/CLionProjects/homework
+"/Users/fenghao/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/203.5981.106/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 -DCMAKE_CXX_COMPILER=/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 -G "CodeBlocks - Unix Makefiles" /Users/fenghao/CLionProjects/homework
+-- The C compiler identification is unknown
+-- The CXX compiler identification is unknown
 CMake Error at CMakeLists.txt:2 (project):
   The CMAKE_C_COMPILER:
 
@@ -25,4 +27,7 @@ CMake Error at CMakeLists.txt:2 (project):
 
 -- Configuring incomplete, errors occurred!
 See also "/Users/fenghao/CLionProjects/homework/cmake-build-debug/CMakeFiles/CMakeOutput.log".
-Cannot resolve compiler path '/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9' Cannot read /Users/fenghao/CLionProjects/homework/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake Cannot read /Users/fenghao/CLionProjects/homework/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake 
+See also "/Users/fenghao/CLionProjects/homework/cmake-build-debug/CMakeFiles/CMakeError.log".
+Cannot resolve compiler path '/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9'
+Cannot read /Users/fenghao/CLionProjects/homework/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake
+Cannot read /Users/fenghao/CLionProjects/homework/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake

@@ -1,7 +1,30 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 -DCMAKE_CXX_COMPILER=/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 -G "CodeBlocks - Unix Makefiles" /Users/fenghao/CLionProjects/openmp
--- Found OpenMP_C: -fopenmp  
--- Found OpenMP_CXX: -fopenmp  
--- Found OpenMP: TRUE   
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/fenghao/CLionProjects/openmp/cmake-build-debug
+"/Users/fenghao/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/203.5981.106/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 -DCMAKE_CXX_COMPILER=/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 -G "CodeBlocks - Unix Makefiles" /Users/fenghao/CLionProjects/openmp
+-- The CXX compiler identification is unknown
+CMake Error at CMakeLists.txt:2 (project):
+  The CMAKE_C_COMPILER:
+
+    /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9
+
+  is not a full path to an existing compiler tool.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CC" or the CMake cache entry CMAKE_C_COMPILER to the full path to
+  the compiler, or to the compiler name if it is in the PATH.
+
+
+CMake Error at CMakeLists.txt:2 (project):
+  The CMAKE_CXX_COMPILER:
+
+    /usr/local/Cellar/gcc/9.2.0_3/bin/g++-9
+
+  is not a full path to an existing compiler tool.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/fenghao/CLionProjects/openmp/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/fenghao/CLionProjects/openmp/cmake-build-debug/CMakeFiles/CMakeError.log".
+Cannot resolve compiler path '/usr/local/Cellar/gcc/9.2.0_3/bin/g++-9'
